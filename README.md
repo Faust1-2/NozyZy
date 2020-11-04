@@ -7,4 +7,4 @@
 - 😄 Pronouns: NozyZy is from NozZy, but already taken...
 - ⚡ Fun fact: blep.
 
-![alt text](https://media.discordapp.net/attachments/426541923172483075/701395052995411968/Nozzy-tournoie.gif)
+![alt text](https://cdn.discordapp.com/attachments/754976677808832512/773567379845677097/n.gif)
