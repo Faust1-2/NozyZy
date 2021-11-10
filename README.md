@@ -37,4 +37,14 @@
 <br />
 <br />
 
+### My most used languages
+
+[![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nozyzy&hide=css,c,powershell&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br />
+<br />
+
+### That's all about me !
+
 ![Logo gif](https://cdn.discordapp.com/attachments/754976677808832512/773575678062624808/Nozzy-tournoie-transparent.gif)
